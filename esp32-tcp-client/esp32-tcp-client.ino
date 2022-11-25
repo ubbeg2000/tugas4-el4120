@@ -59,7 +59,7 @@ void loop()
     client.print(buffer_kirim);
 
     // Jeda 10 detik
-    delay(1000);
+    delay(10000);
   }
 
   // Menutup koneksi
